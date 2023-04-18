@@ -1,0 +1,3 @@
+[submodule "FrontColaboradorSubmodulo"]
+	path = FrontColaboradorSubmodulo
+	url = git@github.com:romildoamaro/FrontColaboradorSubmodulo.git
